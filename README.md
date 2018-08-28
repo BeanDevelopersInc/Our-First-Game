@@ -4,4 +4,3 @@ The idea is that we can always have an up to date code base of all the code ever
 Now, what do we want to make?
 
 We have a discord bot.
-Is the bot working?
